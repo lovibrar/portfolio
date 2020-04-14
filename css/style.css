@@ -193,6 +193,10 @@ display: block;
     columns: 2;
 }
 
+#skills {
+    margin-bottom: 18px;
+}
+
 #skills ul li {
     padding: 6px;
 }
